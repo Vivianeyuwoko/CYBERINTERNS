@@ -316,7 +316,8 @@ Because branch LANs are flat with no VLAN segmentation below site level, and bec
 | Owner | COO |
 | FinServe score | Not on the register |
 | Recommended treatment | Deploy VLAN segmentation at each branch. Forward branch firewall logs to Sentinel. Review branch physical access controls. Reassess alongside the standing board review of branch viability (board worry item 4). |
-RS-19
+
+### RS-19: No reassessment of suppliers when their scope changes
 
 Because FinServe has no process to reassess supplier criticality, contractual terms or data protection controls when the scope of an existing supplier engagement changes, there is a risk that suppliers originally onboarded for low-risk purposes are extended to critical functions without DPAs, without due diligence and without operational resilience mapping, resulting in uncontrolled processing of customer data and, as demonstrated by the Textway breach, exposure of that data without adequate contractual remedies.
 
